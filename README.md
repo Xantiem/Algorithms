@@ -1,4 +1,4 @@
-# Statistical-Function
-Repo for building efficient statistical functions
+# Algorithms
+Repo for algorithms
 
-timings.c has found a 4 microsecond improvement in execution speed
+Assembler - Assembly testing
